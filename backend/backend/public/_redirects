@@ -1,0 +1,2 @@
+"# Send API requests from the Netlify frontend to the Render backend
+/api/* https://paperwork-wo3n.onrender.com/api/:splat 200
